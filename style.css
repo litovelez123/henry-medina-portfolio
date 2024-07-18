@@ -2,3 +2,23 @@ html {
   height: 100%;
   width: 100%;
 }
+
+section {
+  color: darkred;
+}
+
+
+.navbar {
+  background-color: #232323;
+  color: #b51a00; 
+}
+
+.about {
+  background-color: black;
+  color: red;
+}
+
+.skills{
+  background-color: black;
+  color: red;
+}
